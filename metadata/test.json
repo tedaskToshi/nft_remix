@@ -1,0 +1,11 @@
+{
+  "name": "test NFT",
+  "description": "test description",
+  "image": "test.png",
+  "attributes": [
+    {
+      "trait_type": "test category",
+      "value": "test value"
+    }
+  ]
+}
