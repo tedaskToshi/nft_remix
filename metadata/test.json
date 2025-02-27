@@ -1,7 +1,7 @@
 {
   "name": "test NFT",
   "description": "test description",
-  "image": "test.png",
+  "image": "https://tedasktoshi.github.io/nft_remix/images/test.png",
   "attributes": [
     {
       "trait_type": "test category",
